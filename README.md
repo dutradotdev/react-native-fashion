@@ -1,2 +1,5 @@
 # react-native-fashion
-Repositório para estudar o uso de animações em react-native
+Repository to study react native animations.
+
+# Onboarding
+![Slider do onboarding](images/onboarding.gif)
